@@ -88,9 +88,7 @@ ul {
 a:hover{
     color:rgb(204, 35, 35);
 }
-a:visited{
-    color:rgb(83, 69, 69);
-}
+
 
 @media only screen and (max-width: 767px) {
     .partone{
